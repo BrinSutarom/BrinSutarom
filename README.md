@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @BrinSutarom
-- 👀 I’m interested in Quantitative Finance/ Quant Trading
-- 🌱 I’m currently learning BSc Quantitative Finance, National Univeristy of Singapore
-- 📫 How to reach me: brinsutarom@gmail.com
-
-<!---
-BrinSutarom/BrinSutarom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a BSc Quantitative Finance student at the National University of Singapore (NUS), passionate about understanding how mathematics and programming, especially Python, can be applied to analyze and model financial markets. My interests extend to areas such as derivatives pricing, stochastic processes and algorithmic trading, where I am excited about how these skills can enhance decision-making in finance, risk management, and investment strategies.
